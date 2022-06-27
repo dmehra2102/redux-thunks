@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "dlscj390-jksc8a",
+      "title": "Learn Javascript",
+      "status": "Not Completed"
+    },
+    {
+      "id": "qwepma3020-jksc8a",
+      "title": "Learn Redux-thunk",
+      "status": "Not Completed"
+    },
+    {
+      "title": "Learn Java",
+      "status": "Not Completed",
+      "id": "IBj_1hC"
+    },
+    {
+      "title": "Learn React",
+      "status": "Not Completed",
+      "id": "b--dMCX"
+    },
+    {
+      "title": "Learn C++",
+      "status": "Not Completed",
+      "id": "W9tOkFn"
+    }
+  ]
+}
